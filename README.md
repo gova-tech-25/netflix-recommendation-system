@@ -152,4 +152,5 @@ This project demonstrates how NLP and Machine Learning techniques can be used to
 
 # Author
 
-Dande Govardhan# netflix-recommendation-system
+Dande Govardhan
+
